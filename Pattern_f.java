@@ -1,3 +1,4 @@
+//Step 1.2
 public class Pattern_f {
     public static void nStarTriangle(int n) {
         for(int i=1;i<=n;i++){
