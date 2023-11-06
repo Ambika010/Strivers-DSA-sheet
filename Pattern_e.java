@@ -1,3 +1,4 @@
+//Step 1.2
 import java.util.*;
 public class Pattern_e {
     public static void seeding(int n) {
