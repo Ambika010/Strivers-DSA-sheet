@@ -1,3 +1,4 @@
+//Step 1.2
 import java.util.*;
 public class Pattern_b {
     public static void nForest(int n) {
