@@ -1,3 +1,4 @@
+//Step 1.2
 public class Pattern_k {
     public static void nLetterTriangle(int n) {
         for(int i=n;i>=1;i--){
