@@ -1,3 +1,4 @@
+//Step 1.2
 public class Pattern_i {
     public static void nNumberTriangle(int n){
         int value = 1;
