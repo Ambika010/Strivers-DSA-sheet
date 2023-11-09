@@ -1,3 +1,4 @@
+// Step 1.2
 public class Pattern_p {
     public static void getNumberPattern(int n) {
         for(int i=1;i<=(2*n)-1;i++) {
