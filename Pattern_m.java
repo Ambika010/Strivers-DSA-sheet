@@ -1,3 +1,4 @@
+// Step 1.2
 public class Pattern_m {
     public static void alphaHill(int n){
         for(int i=1;i<=n;i++){
