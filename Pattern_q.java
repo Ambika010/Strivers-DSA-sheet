@@ -1,3 +1,4 @@
+// Step 1.2
 public class Pattern_q {
     public static void symmetry(int n) {
         //upper part till n
