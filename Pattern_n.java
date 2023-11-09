@@ -1,3 +1,4 @@
+// Step 1.2
 public class Pattern_n {
     public static void alphaTriangle(int n) {
         for(int i=1;i<=n;i++){
