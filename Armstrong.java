@@ -1,3 +1,4 @@
+// Step 1.4
 import java.util.*;
 public class Armstrong {
     public static void main(String[] args) {
