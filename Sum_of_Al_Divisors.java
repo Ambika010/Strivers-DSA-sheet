@@ -1,3 +1,4 @@
+// Step 1.4
 /* for example : FOR N=5
 WE NEED TO FIND SumOfDivisors(i) for all i from 1 to 5
 SumOfDivisors(1) = 1
