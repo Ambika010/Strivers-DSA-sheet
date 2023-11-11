@@ -1,3 +1,4 @@
+// Step 1.4
 import java.util.*;
 public class Palindrome {
     public static boolean palindromeNumber(int n){
