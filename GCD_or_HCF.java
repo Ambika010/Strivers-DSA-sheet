@@ -1,3 +1,4 @@
+// Step 1.4
 import java.util.*;
 public class GCD_or_HCF {
     public static int calcGCD(int n, int m){
