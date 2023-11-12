@@ -1,4 +1,4 @@
-//Step 1.4
+//Step 1.4 Question 1
 //count only that number of digits which divides the number n completely 
 import java.util.*;
 public class Count_digit {
