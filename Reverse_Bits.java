@@ -1,4 +1,4 @@
-// Step 1.4
+// Step 1.4 Question 2 
 public class Reverse_Bits {
     public static void reverseBits(long n) {
         // long pow=0;
