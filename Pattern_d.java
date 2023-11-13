@@ -1,4 +1,4 @@
-//Step 1.2
+//Step 1.2 Question 4
 import java.util.*;
 public class Pattern_d {
     public static void nTriangle(int n) {
