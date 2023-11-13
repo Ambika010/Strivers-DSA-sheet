@@ -1,4 +1,4 @@
-//Step 1.2
+//Step 1.2 Question 7
 public class Pattern_g {
     public static void nBinaryTriangle(int n) {
         for(int i=1;i<=n;i++){
