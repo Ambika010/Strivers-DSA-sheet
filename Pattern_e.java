@@ -1,4 +1,4 @@
-//Step 1.2
+//Step 1.2 Question 5
 import java.util.*;
 public class Pattern_e {
     public static void seeding(int n) {
