@@ -1,4 +1,4 @@
-//Step 1.2
+//Step 1.2 Question 3
 import java.util.Scanner;
 public class pattern_c {
     public static void nTriangle(int n) {
