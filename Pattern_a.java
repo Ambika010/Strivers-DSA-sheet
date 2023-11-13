@@ -1,4 +1,4 @@
-//Step 1.2
+//Step 1.2 Question 1
 import java.util.*;
 public class Pattern_a {
     public static void nForest(int n) {
