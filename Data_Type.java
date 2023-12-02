@@ -1,4 +1,3 @@
-
 //Step 1.1 Question 2
 import java.util.Scanner;
 public class Data_Type {
