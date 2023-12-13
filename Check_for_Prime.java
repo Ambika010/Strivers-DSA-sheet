@@ -1,4 +1,3 @@
-
 //Step 1.4 Question 7
 import java.util.*;
 public class Check_for_Prime {
