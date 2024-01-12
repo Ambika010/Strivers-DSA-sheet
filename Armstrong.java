@@ -1,4 +1,3 @@
-
 // Step 1.4 Question 5
 import java.util.*;
 public class Armstrong {
