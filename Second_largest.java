@@ -1,4 +1,5 @@
 //Brute force approach
+//Time complexity for brute force approach = O(nlog n)
 import java.util.*;
 public class Second_largest {
     public static int[] getSecondOrderElements(int n, int []a) {
