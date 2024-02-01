@@ -27,3 +27,23 @@ public class Find_Missing_Num_01 {
         System.out.println(missingNumber(arr));
     }
 }
+
+/*
+an array a = {2, 0, 1} and N = 3
+
+First Loop (for (int i = 0; i < N; i++)):
+This loop will iterate from i = 0 to i = 2 (N-1). The array indices are 0, 1, 2. So, it will access a[0], a[1], and a[2]
+For i = 0: hash[2] is incremented
+For i = 1: hash[0] is incremented
+For i = 2: hash[1] is incremented
+After this loop, the hash array might look like: hash = {1, 1, 1, 0}
+
+Second Loop (for (int i = 0; i <= N; i++)):
+This loop will iterate from i = 0 to i = 3 (N). The loop condition i <= N allows it to check frequencies for numbers 0, 1, 2, and 3
+
+For i = 0: hash[0] is not zero, continue
+For i = 1: hash[1] is not zero, continue
+For i = 2: hash[2] is not zero, continue
+For i = 3: hash[3] is zero, so return 3
+Therefore, in this example, the missing number is 3, and the loop conditions ensure that both valid array indices and the upper bound are covered
+*/
