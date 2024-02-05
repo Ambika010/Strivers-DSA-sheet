@@ -29,6 +29,5 @@ public class Find_Num_that_Appears_Once {
         int[] arr = {4, 1, 2, 1, 2};
         int ans = getSingleElement(arr);
         System.out.println("The single element is: " + ans);
-
     }
 }
