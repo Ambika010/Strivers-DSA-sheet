@@ -1,5 +1,6 @@
 // Step 1.4 Question 5
 import java.util.*;
+
 public class Armstrong {
     public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
